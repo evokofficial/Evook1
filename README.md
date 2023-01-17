@@ -1,12 +1,20 @@
 # Hello 👋
 * * *
-### I'm C# Developer, from Uzbekistan 
+### I'm C# Developer, from Uzbekistan           
+**KNOW:**
+- C#
+- ASP.NET
+
+**LEARN:**
+- OpenTk
+- Python
+- MS Sql
 
 
 
-![telegram](https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png?w=16&f=avif "Telegram") **[@Evok1](https://t.me/evok1)**   
-![discord](https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png?w=16&f=avif "discord") **evok1#0668**  
-📫 **[evokofficial@outlook.ph](mailto:evokofficial@outlook.ph)**
+`telegram: @Evok1`  
+`discord: evok1#0668`  
+`mail: evokofficial@outlook.ph`  
 
 
 
