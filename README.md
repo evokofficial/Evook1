@@ -5,7 +5,7 @@
 
 
 ![telegram](https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png?w=16&f=avif "Telegram") **[@Evok1](https://t.me/evok1)**   
-![discord](https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png?w=16&f=avif "discord") **evok1#0668**
+![discord](https://cdn.iconscout.com/icon/free/png-256/discord-3691244-3073764.png?w=16&f=avif "discord") **evok1#0668**  
 📫 **[evokofficial@outlook.ph](mailto:evokofficial@outlook.ph)**
 
 
