@@ -15,7 +15,7 @@
 
 
 `telegram: @Evok1`  
-`discord: evok1#0668`  
+`discord: .evok1`  
 `mail: evokofficial@yandex.com`  
 
 
